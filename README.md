@@ -1,2 +1,2 @@
 # test
-starting project
+starting project for dynamic web page development
